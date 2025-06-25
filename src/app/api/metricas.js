@@ -1,5 +1,5 @@
 export const getMetricas = async () => {
-  const response = await fetch("http://localhost:8000/metricas", {
+  const response = await fetch("https://prediccion-riesgo-burnout.onrender.com/metricas", {
     method: "GET",
     headers: {
       "Content-Type": "application/json",

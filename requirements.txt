@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-jinja2
-fastapi
-uvicorn
-python-multipart
-joblib

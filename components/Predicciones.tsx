@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { predictionAPi } from "../src/app/api/prediccion.js";
+import { predictionAPi } from "../src/app/api/prediccion";
 import { FaUser, FaClock, FaHeart, FaBrain, FaSmile } from "react-icons/fa";
 
 const campos = [
